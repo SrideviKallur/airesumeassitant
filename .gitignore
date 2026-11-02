@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Personal resume
+resume.pdf
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Build files
+build/
+dist/data/
