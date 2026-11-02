@@ -23,3 +23,6 @@ resume.pdf
 # Build files
 build/
 dist/data/
+
+# Generated vector database and candidate data
+data/
